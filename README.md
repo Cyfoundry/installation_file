@@ -1,2 +1,2 @@
-This repository is for installation
+This repository is for Phalanx installation
 
